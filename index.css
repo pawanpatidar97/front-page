@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel:wght@400..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&display=swap');
+
+
+body{
+    min-height: 200vh;
+}
+
+.container {
+    background-color: black;
+}
+
+.box-a{
+    background-color: hsla(0, 0%, 3%, 0.699);
+    position: fixed;
+}
+
+.box-b{
+   
+    position: fixed;
+    top: 90px;
+    left: 2%;
+}
+
+.box-c{
+   
+    position: fixed;
+    top: 140px;
+    left: 2%;
+}
+.box-d{
+    
+    position: fixed;
+    top: 190px;
+    left: 2%;
+}
+.box-e{
+   
+    position: fixed;
+    top: 240px;
+    left: 2%;
+}
+.box-f{
+    
+    position: fixed;
+    top: 290px;
+    left: 2%;
+}
+.button{
+    
+    position: fixed;
+    top: 290px;
+    left: 2%;
+}
